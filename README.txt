@@ -10,7 +10,7 @@ local machine OS: macOS Sierra 10.12.6
 
 Code execution direction:
 
-	1. Please download attached plateaurovers.jar to your local machine.
+	1. Please download plateaurovers.jar from /jar folder (from this project) to your local machine.
 	2. Open terminal and navigate to /plateaurovers.jar location 
 	3. run command "java -jar plateaurovers.jar"
 	
